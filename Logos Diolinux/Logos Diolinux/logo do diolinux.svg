@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="logo do diolinux.svg">
+  <defs
+     id="defs4">
+    <filter
+       id="filter3761"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3763"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3765"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3767"
+         in="composite"
+         stdDeviation="3"
+         result="blur" />
+      <feOffset
+         id="feOffset3769"
+         dx="4.7"
+         dy="4.7"
+         result="offset" />
+      <feComposite
+         id="feComposite3771"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.28"
+     inkscape:cx="580.85291"
+     inkscape:cy="85.938272"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="876"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="657.14286,555.71429"
+       id="guide3789" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="734.28571,271.42857"
+       id="guide3791" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)"
+     style="opacity:1">
+    <ellipse
+       id="path3759"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:5.30000019;stroke-miterlimit:4;stroke-opacity:0.08695655;stroke-dasharray:none"
+       inkscape:export-filename="/home/dionatan/Área de Trabalho/logo diolinux.png"
+       inkscape:export-xdpi="89.61187"
+       inkscape:export-ydpi="89.61187"
+       transform="matrix(0.59047302,0,0,0.59047302,-148.39401,405.98112)"
+       d="M 795.71426,392.66592 A 252.85715,241.42857 0 0 1 542.85712,634.0945 252.85715,241.42857 0 0 1 289.99997,392.66592 252.85715,241.42857 0 0 1 542.85712,151.23735 252.85715,241.42857 0 0 1 795.71426,392.66592 Z"
+       sodipodi:type="arc"
+       sodipodi:ry="241.42857"
+       sodipodi:rx="252.85715"
+       sodipodi:cy="392.66592"
+       sodipodi:cx="542.85712" />
+    <ellipse
+       style="fill:#008aeb;fill-opacity:1;stroke:none;stroke-width:5.30000019;stroke-miterlimit:4;stroke-opacity:0.08695655;stroke-dasharray:none"
+       id="path2985"
+       inkscape:export-filename="/home/dionatan/Área de Trabalho/logo diolinux.png"
+       inkscape:export-xdpi="89.61187"
+       inkscape:export-ydpi="89.61187"
+       transform="matrix(0.5151902,0,0,0.5151902,-102.76907,440.63499)"
+       d="M 795.71426,392.66592 A 252.85715,241.42857 0 0 1 542.85712,634.0945 252.85715,241.42857 0 0 1 289.99997,392.66592 252.85715,241.42857 0 0 1 542.85712,151.23735 252.85715,241.42857 0 0 1 795.71426,392.66592 Z"
+       sodipodi:type="arc"
+       sodipodi:ry="241.42857"
+       sodipodi:rx="252.85715"
+       sodipodi:cy="392.66592"
+       sodipodi:cx="542.85712" />
+    <path
+       style="opacity:1;fill:#006bb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.30000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.08695655"
+       d="m 176.80395,606.422 -79.557856,119.53151 41.999446,40.51128 c 6.91649,1.13293 31.5863,2.92001 38.59343,2.97806 54.15053,-0.0479 86.55215,-25.43345 121.90649,-57.26862 z"
+       id="rect3355"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path3355"
+       d="m 224.38002,657.77235 17.38044,93.14391 49.86736,-31.78437 c 2.93974,-6.64868 11.27966,-30.93889 13.22056,-37.95299 14.52641,-54.33127 3.28483,-53.72691 -31.93676,-94.83762 z"
+       style="opacity:1;fill:#006bb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.30000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.08695655" />
+    <text
+       xml:space="preserve"
+       style="font-size:447.0609436px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter3761);font-family:Sans"
+       x="-86.599228"
+       y="775.44189"
+       id="text3755"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.53512228,0,0,0.53512228,123.94215,310.55127)"
+       inkscape:export-filename="/home/dionatan/Área de Trabalho/logo diolinux.png"
+       inkscape:export-xdpi="89.61187"
+       inkscape:export-ydpi="89.61187"><tspan
+         sodipodi:role="line"
+         id="tspan3757"
+         x="-86.599228"
+         y="775.44189"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:magneto;-inkscape-font-specification:magneto">D</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:182.5524292px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="500.17484"
+       y="688.15302"
+       id="text3773"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/dionatan/Área de Trabalho/logo diolinux.png"
+       inkscape:export-xdpi="20.172157"
+       inkscape:export-ydpi="20.172157"><tspan
+         sodipodi:role="line"
+         id="tspan3775"
+         x="500.17484"
+         y="688.15302"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#333333;fill-opacity:1;font-family:Impact;-inkscape-font-specification:Impact Bold">LINUX</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:194.18864441px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008cf0;fill-opacity:1;stroke:none;font-family:Sans"
+       x="333.89963"
+       y="692.23242"
+       id="text3777"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/dionatan/Área de Trabalho/logo diolinux.png"
+       inkscape:export-xdpi="20.172157"
+       inkscape:export-ydpi="20.172157"><tspan
+         sodipodi:role="line"
+         id="tspan3779"
+         x="333.89963"
+         y="692.23242"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#008cf0;fill-opacity:1;font-family:Impact;-inkscape-font-specification:Impact Bold">IO</tspan></text>
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:#cccccc;stroke-width:2.04088187;stroke-miterlimit:4;stroke-opacity:0.08695655;stroke-dasharray:none"
+       id="rect3781"
+       width="571.28619"
+       height="23.010384"
+       x="341.30032"
+       y="498.63635"
+       inkscape:export-filename="/home/dionatan/Área de Trabalho/logo diolinux.png"
+       inkscape:export-xdpi="20.172157"
+       inkscape:export-ydpi="20.172157" />
+    <rect
+       y="705.96753"
+       x="336.64667"
+       height="23.010384"
+       width="571.28619"
+       id="rect3783"
+       style="fill:#333333;fill-opacity:1;stroke:#cccccc;stroke-width:2.04088187;stroke-miterlimit:4;stroke-opacity:0.08695655;stroke-dasharray:none"
+       inkscape:export-filename="/home/dionatan/Área de Trabalho/logo diolinux.png"
+       inkscape:export-xdpi="20.172157"
+       inkscape:export-ydpi="20.172157" />
+    <text
+       xml:space="preserve"
+       style="font-size:48.87551498px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="342.49307"
+       y="779.52588"
+       id="text3785"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/dionatan/Área de Trabalho/logo diolinux.png"
+       inkscape:export-xdpi="20.172157"
+       inkscape:export-ydpi="20.172157"><tspan
+         sodipodi:role="line"
+         id="tspan3787"
+         x="342.49307"
+         y="779.52588"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold;fill:#333333">LIBERDADE DE CONHECIMENTO</tspan></text>
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:3.12950706;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.08695655"
+       d="M 172.13694,494.43504 A 149.30533,142.55705 0 0 0 22.83225,636.99169 149.30533,142.55705 0 0 0 172.13694,779.54833 149.30533,142.55705 0 0 0 321.44163,636.99169 149.30533,142.55705 0 0 0 172.13694,494.43504 Z m 4.75781,23.26758 A 130.26953,124.38164 0 0 1 307.16428,642.08348 130.26953,124.38164 0 0 1 176.89475,766.4663 130.26953,124.38164 0 0 1 46.62522,642.08348 130.26953,124.38164 0 0 1 176.89475,517.70262 Z"
+       id="ellipse4208"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       inkscape:export-ydpi="578.65997"
+       inkscape:export-xdpi="578.65997"
+       inkscape:export-filename="/home/dionatan/Área de Trabalho/logo diolinux.png"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:5.30000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.08695655"
+       id="ellipse4156"
+       cx="-32.346191"
+       cy="-148.60464"
+       rx="149.30533"
+       ry="142.55705" />
+    <ellipse
+       inkscape:export-ydpi="578.65997"
+       inkscape:export-xdpi="578.65997"
+       inkscape:export-filename="/home/dionatan/Área de Trabalho/logo diolinux.png"
+       id="ellipse4158"
+       style="fill:#008aeb;fill-opacity:1;stroke:none;stroke-width:5.30000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.08695655"
+       cx="-27.58905"
+       cy="-143.51178"
+       rx="130.26953"
+       ry="124.38164" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path4160"
+       d="m -27.690719,-180.02241 -79.557851,119.53151 41.999441,40.51128 c 6.91649,1.13293 31.5863,2.92001 38.59343,2.97806 54.15053,-0.0479 86.55215,-25.43345 121.90649,-57.26862 z"
+       style="opacity:1;fill:#006bb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.30000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.08695655"
+       inkscape:export-filename="/home/dionatan/Área de Trabalho/logo diolinux.png"
+       inkscape:export-xdpi="578.65997"
+       inkscape:export-ydpi="578.65997" />
+    <path
+       style="opacity:1;fill:#006bb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.30000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.08695655"
+       d="m 19.885351,-128.67206 17.38044,93.14391 49.86736,-31.78437 c 2.93974,-6.64868 11.27966,-30.93889 13.220559,-37.95299 14.52641,-54.33127 3.28483,-53.72691 -31.936759,-94.83762 z"
+       id="path4162"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/dionatan/Área de Trabalho/logo diolinux.png"
+       inkscape:export-xdpi="578.65997"
+       inkscape:export-ydpi="578.65997" />
+    <text
+       inkscape:export-ydpi="578.65997"
+       inkscape:export-xdpi="578.65997"
+       inkscape:export-filename="/home/dionatan/Área de Trabalho/logo diolinux.png"
+       transform="matrix(0.53512228,0,0,0.53512228,-80.552519,-475.89314)"
+       sodipodi:linespacing="125%"
+       id="text4164"
+       y="775.44189"
+       x="-86.599228"
+       style="font-style:normal;font-weight:normal;font-size:447.0609436px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter3761)"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:magneto;-inkscape-font-specification:magneto;fill:#ffffff"
+         y="775.44189"
+         x="-86.599228"
+         id="tspan4166"
+         sodipodi:role="line">D</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4168"
+       d="M -32.357729,-292.00937 A 149.30533,142.55705 0 0 0 -181.66242,-149.45272 149.30533,142.55705 0 0 0 -32.357729,-6.8960795 149.30533,142.55705 0 0 0 116.94696,-149.45272 149.30533,142.55705 0 0 0 -32.357729,-292.00937 Z m 4.75781,23.26758 A 130.26953,124.38164 0 0 1 102.66961,-144.36093 130.26953,124.38164 0 0 1 -27.599919,-19.97811 130.26953,124.38164 0 0 1 -157.86945,-144.36093 130.26953,124.38164 0 0 1 -27.599919,-268.74179 Z"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:3.12950706;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.08695655"
+       inkscape:export-filename="/home/dionatan/Área de Trabalho/logo diolinux.png"
+       inkscape:export-xdpi="578.65997"
+       inkscape:export-ydpi="578.65997" />
+    <ellipse
+       inkscape:export-ydpi="89.61187"
+       inkscape:export-xdpi="89.61187"
+       inkscape:export-filename="/home/dionatan/Área de Trabalho/logo diolinux.png"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:5.30000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.08695655"
+       id="ellipse3363"
+       cx="176.83597"
+       cy="1001.121"
+       rx="149.30533"
+       ry="142.55705" />
+    <ellipse
+       inkscape:export-ydpi="89.61187"
+       inkscape:export-xdpi="89.61187"
+       inkscape:export-filename="/home/dionatan/Área de Trabalho/logo diolinux.png"
+       id="ellipse3365"
+       style="fill:#008aeb;fill-opacity:1;stroke:none;stroke-width:5.30000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.08695655"
+       cx="181.59309"
+       cy="1006.2139"
+       rx="130.26953"
+       ry="124.38164" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path3367"
+       d="m 181.49145,969.70325 -79.55786,119.53155 41.99945,40.5112 c 6.91649,1.133 31.5863,2.9201 38.59343,2.9781 54.15053,-0.048 86.55215,-25.4334 121.90649,-57.2686 z"
+       style="opacity:1;fill:#006bb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.30000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.08695655" />
+    <path
+       style="opacity:1;fill:#006bb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.30000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.08695655"
+       d="m 229.06752,1021.0536 17.38044,93.1439 49.86736,-31.7844 c 2.93974,-6.6486 11.27966,-30.9388 13.22056,-37.953 14.52641,-54.33122 3.28483,-53.72686 -31.93676,-94.83757 z"
+       id="path3369"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <text
+       inkscape:export-ydpi="89.61187"
+       inkscape:export-xdpi="89.61187"
+       inkscape:export-filename="/home/dionatan/Área de Trabalho/logo diolinux.png"
+       transform="matrix(0.53512228,0,0,0.53512228,128.62965,673.83252)"
+       sodipodi:linespacing="125%"
+       id="text3371"
+       y="775.44189"
+       x="-86.599228"
+       style="font-style:normal;font-weight:normal;font-size:447.0609436px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter3761)"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:magneto;-inkscape-font-specification:magneto;fill:#ffffff"
+         y="775.44189"
+         x="-86.599228"
+         id="tspan3373"
+         sodipodi:role="line">D</tspan></text>
+    <text
+       inkscape:export-ydpi="20.172157"
+       inkscape:export-xdpi="20.172157"
+       inkscape:export-filename="/home/dionatan/Área de Trabalho/logo diolinux.png"
+       sodipodi:linespacing="125%"
+       id="text3375"
+       y="1051.4343"
+       x="504.86234"
+       style="font-style:normal;font-weight:normal;font-size:182.5524292px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#f9f9f9;fill-opacity:1;"
+         y="1051.4343"
+         x="504.86234"
+         id="tspan3377"
+         sodipodi:role="line">LINUX</tspan></text>
+    <text
+       inkscape:export-ydpi="20.172157"
+       inkscape:export-xdpi="20.172157"
+       inkscape:export-filename="/home/dionatan/Área de Trabalho/logo diolinux.png"
+       sodipodi:linespacing="125%"
+       id="text3379"
+       y="1055.5137"
+       x="338.58713"
+       style="font-style:normal;font-weight:normal;font-size:194.18864441px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#008cf0;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#008cf0;fill-opacity:1"
+         y="1055.5137"
+         x="338.58713"
+         id="tspan3381"
+         sodipodi:role="line">IO</tspan></text>
+    <rect
+       inkscape:export-ydpi="20.172157"
+       inkscape:export-xdpi="20.172157"
+       inkscape:export-filename="/home/dionatan/Área de Trabalho/logo diolinux.png"
+       y="861.9176"
+       x="345.98782"
+       height="23.010384"
+       width="571.28619"
+       id="rect3383"
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#cccccc;stroke-width:2.04088187;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.08695655" />
+    <rect
+       inkscape:export-ydpi="20.172157"
+       inkscape:export-xdpi="20.172157"
+       inkscape:export-filename="/home/dionatan/Área de Trabalho/logo diolinux.png"
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#cccccc;stroke-width:2.04088187;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.08695655"
+       id="rect3385"
+       width="571.28619"
+       height="23.010384"
+       x="341.33417"
+       y="1069.2488" />
+    <text
+       inkscape:export-ydpi="20.172157"
+       inkscape:export-xdpi="20.172157"
+       inkscape:export-filename="/home/dionatan/Área de Trabalho/logo diolinux.png"
+       sodipodi:linespacing="125%"
+       id="text3387"
+       y="1142.8071"
+       x="347.18057"
+       style="font-style:normal;font-weight:normal;font-size:48.87551498px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#f9f9f9;"
+         y="1142.8071"
+         x="347.18057"
+         id="tspan3389"
+         sodipodi:role="line">LIBERDADE DE CONHECIMENTO</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3391"
+       d="M 176.82444,857.71629 A 149.30533,142.55705 0 0 0 27.51975,1000.2729 149.30533,142.55705 0 0 0 176.82444,1142.8296 149.30533,142.55705 0 0 0 326.12913,1000.2729 149.30533,142.55705 0 0 0 176.82444,857.71629 Z m 4.75781,23.26758 A 130.26953,124.38164 0 0 1 311.85178,1005.3647 130.26953,124.38164 0 0 1 181.58225,1129.7476 130.26953,124.38164 0 0 1 51.31272,1005.3647 130.26953,124.38164 0 0 1 181.58225,880.98387 Z"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:3.12950706;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.08695655" />
+  </g>
+</svg>
